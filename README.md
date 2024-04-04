@@ -9,7 +9,7 @@ HTML5: Used for structuring the website.
 CSS3: Used for styling and layout.
 JavaScript: Used for implementing interactive features.
 -How to Run
-Clone this repository to your local machine using git clone[(https://github.com/Food-Website).
+Clone this repository to your local machine using git clone[(https://github.com/sharyarnaveed/Food-Website)).
 Navigate to the project directory.
 Open the index.html file in your web browser.
 -Project Structure
